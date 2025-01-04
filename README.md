@@ -7,6 +7,19 @@ View Tasks: Display all pending tasks in an organized manner.
 Mark Tasks as Complete: Keep track of completed tasks.
 Delete Tasks: Remove tasks from the list.
 
+Welcome to the To-Do App!
+-------------------------
+1. Add Task
+2. View Tasks
+3. update Tasks
+4. Delete Task
+5. Exit
+Choose an option: 1
+
+Enter a task: Finish the project report
+Task added successfully!
+
+
 Technologies Used
 Python: Core logic for the application.
 
